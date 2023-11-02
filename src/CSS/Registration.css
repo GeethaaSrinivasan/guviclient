@@ -1,0 +1,51 @@
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.title {
+	text-align: center;
+	width: 30vw;
+	padding:2vw 1vw;
+	border-radius: 10px 10px;
+	font-size: 2rem;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Registration {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+
+	width: 30vw;
+	padding: 2vw 1vw;
+  
+}
+
+input {
+	border: 1px solid rgb(172, 171, 171);
+	border-radius: 10px;
+	padding: 1vw 1vw;
+	margin: 5px;
+}
+
+label{
+text-align: left;
+font-size: large;
+font-weight: bold;
+}
+
+.Submit
+{
+border: 1px solid rgb(172, 171, 171);
+border-radius: 10px;
+padding: 1vw 1vw;
+margin: 5px;
+font-Weight:bold;
+font-Size:large;
+display: flex;
+align-items: center;
+justify-content: center;
+}
